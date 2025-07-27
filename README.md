@@ -22,13 +22,13 @@ Este projeto contém implementações em **C++** e **VB.NET** de uma função qu
 ### C++
 
 1. Compile o arquivo `InvokeBSOD.cpp` usando um compilador compatível (Visual Studio, MinGW, etc).
-2. Execute o programa com privilégios administrativos.
+2. Execute o programa (não precisa de adm)
 3. A função `InvokeBSOD()` irá causar o BSOD.
 
 ### VB.NET
 
 1. Adicione o código da função `InvokeBSOD()` no seu projeto VB.NET.
-2. Execute o programa com privilégios administrativos.
+2. Execute o programa (não precisa de adm)
 3. Chame `InvokeBSOD()` para disparar o BSOD.
 
 ---
