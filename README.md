@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu repositório GitHub que inclui as versões em C++ e VB.NET da função para invocar o BSOD:
-
 ---
 
 # BSOD Invoker
@@ -89,5 +87,3 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar 
 Este código pode causar perda de dados e falhas no sistema. Use somente para fins educativos e em máquinas de teste. Não nos responsabilizamos por danos causados pelo uso indevido.
 
 ---
-
-Se quiser, posso ajudar a formatar isso para Markdown já com links, badges, etc. Quer?
